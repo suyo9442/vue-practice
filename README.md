@@ -50,7 +50,7 @@
 
 <Transition>
 - fragment에 메인 name을 부여 → 
-```
+```JavaScript
 <transition name=“fade”></transition>
 ```
 - 들어갈 때: fade-enter-from/active/to
