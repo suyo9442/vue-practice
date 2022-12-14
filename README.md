@@ -49,6 +49,9 @@
 - <div class=“효과전클래스” :class=“{부착클래스: true}”>
 
 <Transition>
-- fragment에 메인 name을 부여 → <transition name=“fade”></transition>
+- fragment에 메인 name을 부여 → 
+```
+<transition name=“fade”></transition>
+```
 - 들어갈 때: fade-enter-from/active/to
 - 끝날 때 : fade-leave-from/active/to
